@@ -1,1 +1,1 @@
-# mobile-banking-easpy
+# EasPay_Mobile_Banking

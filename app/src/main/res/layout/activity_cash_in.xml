@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CashIn"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#800000">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/ic_back"
+            android:onClick="btnbchme"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CashIn Money"
+            android:layout_marginLeft="101dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send To*"
+            android:visibility="gone"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/EditTextMobileNumber"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:hint="Enter Mobile Number"
+            android:visibility="gone"
+            android:maxLength="11"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:background="@drawable/border"/>
+        <!--        <Button-->
+        <!--            android:id="@+id/btnAuthenticate"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginTop="20dp"-->
+        <!--            android:layout_gravity="center"-->
+        <!--            android:backgroundTint="#800000"-->
+        <!--            android:textColor="@color/white"-->
+        <!--            android:text="Athenticate " />-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="CasIn Amount*"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/EditAmount"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:hint="Enter Amount"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:background="@drawable/border"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Message"
+            android:visibility="gone"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/EditTextMessage"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:hint="Optional Message"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:background="@drawable/border"/>
+
+
+        <Button
+            android:id="@+id/btnSendMoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:backgroundTint="#800000"
+            android:textColor="@color/white"
+            android:text="Continue" />
+        <!--        android:onClick="sndcontinue"-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <EditText
+                android:id="@+id/ETFirstName"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="First Name"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+            <EditText
+                android:id="@+id/ETLastName"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="Last Name"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/ETGender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginRight="15dp"
+                    android:hint="Gender"
+                    android:visibility="gone"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:background="@drawable/border"/>
+                <EditText
+                    android:id="@+id/ETAge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="15dp"
+                    android:inputType="number"
+                    android:hint="Age"
+                    android:visibility="gone"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:background="@drawable/border"/>
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/ETEmployeeNumber"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="Employee Number"
+                android:visibility="gone"
+                android:inputType="number"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+            <EditText
+                android:id="@+id/ETContactNumber"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="Contact Number"
+                android:visibility="gone"
+                android:inputType="number"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+            <EditText
+                android:id="@+id/ETEmail"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="Email"
+                android:visibility="gone"
+                android:inputType="number"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+
+            <EditText
+                android:id="@+id/ETPassword"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_marginTop="18dp"
+                android:hint="Password"
+                android:visibility="gone"
+                android:inputType="textPassword"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:background="@drawable/border"/>
+
+            <EditText
+                android:id="@+id/ETBalance"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="18dp"
+                android:background="@null"
+                android:visibility="gone"
+                android:text=""
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/ETUserStatus"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="18dp"
+                android:background="@null"
+                android:visibility="gone"
+                android:text="0"
+                android:textAlignment="center" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prototype10">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="EaSPay"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Prototype10">
+        <activity
+            android:name=".Screenshot"
+            android:exported="false" />
+        <activity
+            android:name=".Print"
+            android:exported="false" />
+        <activity
+            android:name=".CashOut"
+            android:exported="false" />
+        <activity
+            android:name=".CashIn"
+            android:exported="false" />
+        <activity
+            android:name=".Points"
+            android:exported="false" />
+        <activity
+            android:name=".ChangePassword"
+            android:exported="false" />
+        <activity
+            android:name=".Setting"
+            android:exported="false" />
+        <activity
+            android:name=".EditInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
+            android:name=".TransDetails"
+            android:exported="false" />
+        <activity
+            android:name=".TransactionHistory"
+            android:exported="false" />
+        <activity
+            android:name=".Pay"
+            android:exported="false" />
+        <activity
+            android:name=".SendMoneyReceipt"
+            android:exported="false" />
+        <activity
+            android:name=".SendMoney2"
+            android:exported="false" />
+        <activity
+            android:name=".SendMoney"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FacultySignUp"
+            android:exported="false" />
+        <activity
+            android:name=".StudentSignUp"
+            android:exported="false" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false" />
+        <activity
+            android:name=".HomeScreen"
+            android:exported="false" />
+        <activity
+            android:name=".LogIn"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

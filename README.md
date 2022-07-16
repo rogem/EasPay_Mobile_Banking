@@ -8,7 +8,11 @@ This system
 
 ## Android Studio File
 
-[CS_Grp5_Pano.zip](https://github.com/rogem/EasPay_Mobile_Banking/files/9126141/CS_Grp5_Pano.zip)
+[CS_Grp5_Pano.zip](https://github.com/rogem/EasPay_Mobile_Banking/files/9126199/CS_Grp5_Pano.zip)
+
+## Appetize File
+
+https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&scale=75
 
 ## Features
 

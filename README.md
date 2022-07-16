@@ -16,7 +16,7 @@ https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&
 
 ## Demo Video
 
-## DeveloperS
+## Developer
 * Rogem S. Pano
 * Neil Brian C. Bernardino
 * Lance Joseph P. Dones

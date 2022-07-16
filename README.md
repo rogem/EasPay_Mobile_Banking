@@ -13,7 +13,7 @@ This system
 ## Demo Video
 
 ## Developer
-* Rogem S. Pao
+* Rogem S. Pano
 * Neil Brian C. Bernardino
 * Lance Joseph P. Dones
 * Ma. Joselyn D. De Jesus

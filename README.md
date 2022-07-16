@@ -22,7 +22,7 @@ https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&
 * Lance Joseph P. Dones
 * Ma. Joselyn D. De Jesus
 
-## Adviser
+## Professor
 * Jefferson A. Costales
 
 ## Subject

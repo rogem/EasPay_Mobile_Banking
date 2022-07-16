@@ -4,3 +4,34 @@
 
 This system 
 
+## Overview
+
+## Requirements
+
+## Features
+
+## Demo Video
+
+## Developer
+* Rogem S. Pao
+* Neil Brian C. Bernardino
+* Lance Joseph P. Dones
+* Ma. Joselyn D. De Jesus
+
+## Adviser
+* Jefferson A. Costales
+
+## School Name
+* Eulogio "Amang" Rodriguez Insitute of Science and Technology
+
+Nagtahan, Sampaloc, Manila, Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+## Course: 
+* Bachelor of Science in Computer Science
+
+## Date: 
+* July 00, 2022

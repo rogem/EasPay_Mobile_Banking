@@ -30,8 +30,8 @@ College of Arts and Sciences
 
 ITE Department
 
-## Course: 
+## Course
 * Bachelor of Science in Computer Science
 
-## Date: 
+## Date 
 * July 00, 2022

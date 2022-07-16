@@ -8,6 +8,8 @@ This system
 
 ## Android Studio File
 
+[CS_Grp5_Pano.zip](https://github.com/rogem/EasPay_Mobile_Banking/files/9126141/CS_Grp5_Pano.zip)
+
 ## Features
 
 ## Demo Video

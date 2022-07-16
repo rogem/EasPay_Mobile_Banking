@@ -7,18 +7,16 @@ This system
 ## User's Manual
 
 ## Android Studio File
-
 [CS_Grp5_Pano.zip](https://github.com/rogem/EasPay_Mobile_Banking/files/9126199/CS_Grp5_Pano.zip)
 
 ## Appetize File
-
 https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&scale=75
 
 ## Features
 
 ## Demo Video
 
-## Developer
+## DeveloperS
 * Rogem S. Pano
 * Neil Brian C. Bernardino
 * Lance Joseph P. Dones
@@ -26,6 +24,15 @@ https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&
 
 ## Adviser
 * Jefferson A. Costales
+
+## Subject
+* MOBAPLEC & MOBAPLAB
+
+## Course
+* Bachelor of Science in Computer Science
+
+## Year & Section
+* BSCS-3A
 
 ## School Name
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
@@ -35,9 +42,6 @@ Nagtahan, Sampaloc, Manila, Philippines
 College of Arts and Sciences
 
 ITE Department
-
-## Course
-* Bachelor of Science in Computer Science
 
 ## Date 
 * July 00, 2022

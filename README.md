@@ -22,7 +22,7 @@ This system
 * Jefferson A. Costales
 
 ## School Name
-* Eulogio "Amang" Rodriguez Insitute of Science and Technology
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
 
 Nagtahan, Sampaloc, Manila, Philippines
 

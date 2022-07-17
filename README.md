@@ -2,8 +2,6 @@
 
 ![resh (1)](https://user-images.githubusercontent.com/109327164/179348511-ea23be43-e267-49a4-9e2a-400d61658529.png)
 
-This system 
-
 ## User's Manual
 
 ## Android Studio File

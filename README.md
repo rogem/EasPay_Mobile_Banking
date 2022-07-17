@@ -12,7 +12,22 @@ This system
 ## Appetize File
 https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&scale=75
 
+## Overview
+![1](https://user-images.githubusercontent.com/109327164/179393633-02a40070-4310-4a7e-8ae4-782906918bdb.png)
+
 ## Features
+1. Send Money
+![2](https://user-images.githubusercontent.com/109327164/179393502-b1f3c181-00e9-4290-a41f-dd65157034a8.png)
+2. Cash In
+![3](https://user-images.githubusercontent.com/109327164/179393551-827dab28-7159-44fc-86d0-4feb2f980cc1.png)
+3. Cash Out
+![4](https://user-images.githubusercontent.com/109327164/179393575-4d208a84-61d5-48ed-b32e-af4bf5b58f75.png)
+4. Points
+![5](https://user-images.githubusercontent.com/109327164/179393583-5670d9e5-dc7c-4521-afb9-c20de804ada9.png)
+5. Transaction History
+![6](https://user-images.githubusercontent.com/109327164/179393596-8b3018a5-82de-4318-8506-63b904214e75.png)
+6. Print
+![7](https://user-images.githubusercontent.com/109327164/179393601-40664dfd-28db-4700-b44c-1b1142895e1b.png)
 
 ## Demo Video
 

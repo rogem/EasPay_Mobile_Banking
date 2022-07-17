@@ -3,6 +3,7 @@
 ![resh (1)](https://user-images.githubusercontent.com/109327164/179348511-ea23be43-e267-49a4-9e2a-400d61658529.png)
 
 ## User's Manual
+[CS_Grp5_Pano.docx](https://github.com/rogem/EasPay_Mobile_Banking/files/9128469/CS_Grp5_Pano.docx)
 
 ## Android Studio File
 [CS_Grp5_Pano.zip](https://github.com/rogem/EasPay_Mobile_Banking/files/9126199/CS_Grp5_Pano.zip)
@@ -58,4 +59,4 @@ College of Arts and Sciences
 ITE Department
 
 ## Date 
-* July 00, 2022
+* July 18, 2022

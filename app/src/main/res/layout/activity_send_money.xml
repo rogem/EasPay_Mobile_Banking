@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SendMoney"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#800000">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/ic_back"
+            android:onClick="btnbchme"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send Money"
+            android:layout_marginLeft="101dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send To*"
+            android:textSize="20dp"/>
+
+        <!--        android:inputType="number"-->
+
+        <Spinner
+            android:id="@+id/userMobileNumber"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/border"
+            android:foreground="?attr/selectableItemBackground"
+            android:spinnerMode="dialog" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Transfer Amount*"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/EditAmount"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:hint="Enter Amount"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:background="@drawable/border"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Message"
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/EditTextMessage"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:hint="Optional Message"
+            android:layout_gravity="center"
+            android:background="@drawable/border"/>
+
+
+        <Button
+            android:id="@+id/btnSendMoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:backgroundTint="#800000"
+            android:textColor="@color/white"
+            android:text="Continue" />
+<!--        android:onClick="sndcontinue"-->
+
+
+    </LinearLayout>
+</LinearLayout>

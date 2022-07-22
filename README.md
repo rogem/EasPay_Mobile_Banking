@@ -12,6 +12,7 @@
 https://appetize.io/app/oqz5vm24ipawnyknunyq2jh4gi?device=pixel4&osVersion=11.0&scale=75
 
 ## Overview
+In EaSPay Mobile Banking System is an android studio application that has 6 features which include Send Money, Cash In, Cash Out, Points, Transaction History, and Prints.
 ![1](https://user-images.githubusercontent.com/109327164/179393633-02a40070-4310-4a7e-8ae4-782906918bdb.png)
 
 ## Features
